@@ -1,0 +1,1 @@
+const mock = { pacientes: [{ id: 1, nombre: 'Juan Perez' }, { id: 2, nombre: 'Ana Gomez' }], profesionales: [{ id: 1, nombre: 'Dr. Lopez' }, { id: 2, nombre: 'Dra. Martinez' }], citas: [{ id: 1, nombre: 'Consulta General', estado: 'Confirmada' }, { id: 2, nombre: 'Revisión', estado: 'Pendiente' }] }; export default mock;
